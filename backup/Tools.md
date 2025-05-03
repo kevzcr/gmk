@@ -161,7 +161,7 @@
 
 01=====Zb6666=====zb9678@gmail.com
 
-02=====Zb6666=====zcr74@outlook.com========= zcr8.ddns-ip.net
+02=====Zb8=====zcr74@outlook.com========= zcr8.ddns-ip.net
 
 03=====Zb6666=====zcr76@outlook.com====== zcr7.ggff.net==26.4.1
 
