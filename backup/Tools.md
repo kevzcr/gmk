@@ -179,7 +179,7 @@
 
 01====F6=======zb9678@hotmail.com
 
-02====F6=======zcr01@outlook.com===========zcr7.ip-ddns.com
+02====F7=======zcr01@outlook.com===========zcr7.ip-ddns.com
 
 03====F6=======zcr02@outlook.com============zcr3.ddns-ip.net
 
